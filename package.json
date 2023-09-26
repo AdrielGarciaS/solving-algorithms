@@ -1,0 +1,13 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adriel Garcia <adrielgarcia@live.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
